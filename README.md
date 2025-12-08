@@ -1,7 +1,3 @@
-# EDM1507_K_M_N
+# exe
 
-Performance de synthese sonore dans le cadre du cours EDM1507
-
-Kaleb Therien
-Mathis Paquin
-Nicolas Dion
+Developed with Unreal Engine 5
